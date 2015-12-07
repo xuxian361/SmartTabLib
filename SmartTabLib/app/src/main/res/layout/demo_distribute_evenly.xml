@@ -1,4 +1,4 @@
-<com.ogaclejapan.smarttablayout.SmartTabLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.sundy.smarttablib.smarttablib.smarttablayout.SmartTabLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@id/viewpagertab"
     android:layout_width="match_parent"

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
     <color name="primary">#3C515C</color>
     <color name="primary_dark">#142E3C</color>
     <color name="accent">#40C4FF</color>
@@ -34,4 +31,5 @@
         <item>@color/green_500</item>
         <item>@color/light_green_500</item>
     </integer-array>
+
 </resources>

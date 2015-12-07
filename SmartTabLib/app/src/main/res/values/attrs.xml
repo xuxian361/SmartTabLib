@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <declare-styleable name="TintableImageView">
+        <attr name="tint" format="reference|color" />
+    </declare-styleable>
+
     <declare-styleable name="stl_SmartTabLayout">
         <attr name="stl_indicatorAlwaysInCenter" format="boolean" />
         <attr name="stl_indicatorWithoutPadding" format="boolean" />
@@ -38,9 +42,5 @@
             <enum name="auto_center" value="-1" />
         </attr>
         <attr name="stl_drawDecorationAfterTab" format="boolean" />
-    </declare-styleable>
-
-    <declare-styleable name="TintableImageView">
-        <attr name="tint" format="reference|color" />
     </declare-styleable>
 </resources>
